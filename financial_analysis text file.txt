@@ -1,0 +1,5 @@
+financial analysis:
+total months: 86
+total net: 671099
+Greatest Increase: Feb-2012, $1926159
+Greatest Decrease: Sep-2013, $-2196167
