@@ -1,0 +1,11 @@
+spicy miso ramen:{'01-count': 4406, '02-revenue': 52872.0, '03-cogs': 22030.0, '04-profit': 30842.0}
+tori paitan ramen:{'01-count': 4330, '02-revenue': 56290.0, '03-cogs': 25980.0, '04-profit': 30310.0}
+truffle butter ramen:{'01-count': 4194, '02-revenue': 58716.0, '03-cogs': 29358.0, '04-profit': 29358.0}
+tonkotsu ramen:{'01-count': 4372, '02-revenue': 56836.0, '03-cogs': 26232.0, '04-profit': 30604.0}
+vegetarian spicy miso:{'01-count': 4438, '02-revenue': 53256.0, '03-cogs': 22190.0, '04-profit': 31066.0}
+shio ramen:{'01-count': 4188, '02-revenue': 46068.0, '03-cogs': 20940.0, '04-profit': 25128.0}
+miso crab ramen:{'01-count': 4135, '02-revenue': 49620.0, '03-cogs': 24810.0, '04-profit': 24810.0}
+nagomi shoyu:{'01-count': 4212, '02-revenue': 46332.0, '03-cogs': 21060.0, '04-profit': 25272.0}
+soft-shell miso crab ramen:{'01-count': 4204, '02-revenue': 58856.0, '03-cogs': 29428.0, '04-profit': 29428.0}
+burnt garlic tonkotsu ramen:{'01-count': 4254, '02-revenue': 59556.0, '03-cogs': 25524.0, '04-profit': 34032.0}
+vegetarian curry + king trumpet mushroom ramen:{'01-count': 4156, '02-revenue': 54028.0, '03-cogs': 29092.0, '04-profit': 24936.0}
