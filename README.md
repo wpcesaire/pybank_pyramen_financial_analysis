@@ -13,10 +13,9 @@ Your task is to create a Python script that analyzes the records to calculate ea
 
 * The greatest decrease in losses (date and amount) over the entire period.
 
-Your resulting analysis should look similar to the following:
 
 Pyramen:
-Welcome to Ichiban Ramen!
+Welcome to Ichiban ramen!
 
 Opening a ramen shop has always been your dream, and now it's finally been realized––you're closing out on your second year of sales! Like last year, you need to analyze your business's financial performance by cross-referencing your sales data with your internal menu data to figure out revenues and costs for the year.
 
